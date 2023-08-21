@@ -1,0 +1,62 @@
+h1 {
+	color: blue;    <!farba>
+	font-size: 40px;
+	font-weight: normal;
+	font-family: Montserrat, serif;
+	text-align: center;
+
+}
+
+li {
+	text-align: center;
+
+}
+
+img {
+width:35px;
+height:35px;
+}
+p {font-aligin: center;
+
+
+}
+body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			max-width: 600px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+		h1 {
+			text-align: center;
+		}
+		hr {
+			margin-top: 10px;
+		}
+		.contact-info {
+			display: flex;
+			align-items: center;
+			margin: 15px 0;
+		}
+		.contact-icon {
+			width: 40px;
+			height: 40px;
+			margin-right: 10px;
+		}
+		.contact-link {
+			color: #007bff;
+			text-decoration: none;
+		}
+		.contact-link:hover {
+			text-decoration: underline;
+		}
+		.social-links ol {
+			list-style: none;
+			padding: 0;
+		}
+		.social-links li {
+			margin-top: 10px;
+		}

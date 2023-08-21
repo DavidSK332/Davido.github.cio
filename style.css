@@ -1,0 +1,28 @@
+h1 {
+	color: blue;    <!farba>
+	font-size: 20px;
+	font-weight: normal;
+	font-family: Montserrat, serif;
+	text-align: center;
+
+}
+
+p {
+	font-weight: normal;
+	font-family: Roboto, tahoma, sans-serif;
+
+}
+
+h2 { 
+	text-align: center;
+
+ }
+
+ img {
+ 	border-radius: 60% 30% 20% 20%;
+
+ }
+
+ kontakt.html h1 {font-size 40px
+ 				font-align: center;
+ }
